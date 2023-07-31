@@ -1,0 +1,15 @@
+{
+  "name": "smart_dustbin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaryan Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "json": "^11.0.0"
+  }
+}
